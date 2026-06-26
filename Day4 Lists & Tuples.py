@@ -104,20 +104,7 @@ find
 print(list_[2][1])
 '''
 
-
-
 any_= [99, 44, 66, 33, 55, 22, 11, 88, 77]
 print(sorted(any_))
-
-
-
-
-
-
-
-
-
-
-
-
+any_.sort()
 
