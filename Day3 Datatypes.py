@@ -85,16 +85,7 @@ print(str.replace("e", "E", 2))             #My sElf MEEnakshi
         print(min("self"))  #e
         print(min(str))     # (space will be the minimum  character)
 
-        
-
 '''
 
 str = "My self Meenakshi"
 print(min(str))
-
-
-
-
-
-
-
