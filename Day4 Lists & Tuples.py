@@ -1,5 +1,5 @@
 '''
-                   LIST DATATYPE
+                   LIST DATATYPE 
                    -------------
 LIST --> This is a collection of differnet datatypes that are enclosed in [] seperated by commas(,)
         all_type = [1, 'Python', [1,2]]
