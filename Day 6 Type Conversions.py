@@ -65,6 +65,13 @@ LIST --> String, Tuple, Dictionary
 
 TUPLE : String, Lists
     ex:
+    coins = (1, 2, 5, 10, 20)
+    print(list(coins))
+    
+    letters = ('a', 'b', 'c', 'd', 'e')
+    convert1_ = "".join(letters)
+    print(convert1_)
+
     
 
 
@@ -78,12 +85,3 @@ dict()
 
 
 '''
-
-coins = (1, 2, 5, 10, 20)
-print(list(coins))
-
-letters = ('a', 'b', 'c', 'd', 'e')
-convert1_ = "".join(letters)
-print(convert1_)
-
-
