@@ -54,24 +54,13 @@ print(f"Hi {name_} your age is {age_}")
 print(f"Hi {name_} your age is {age_ + 5}")
 
 
-
-
-'''
-
+2. modulus formatting (%)
+ex:
 name_ = input("Enter your name: ")
 age_ = int(input("Enter your age: "))
 print("My name is %s and I'm %d years old....." %(name_, age_))
 
-
-
-
-
-
-
-
-
-
-
+'''
 
 
 
