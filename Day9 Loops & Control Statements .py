@@ -1,5 +1,4 @@
 '''
-
                     LOOPS
                     -----
 
@@ -80,7 +79,6 @@ for val in list_:
 else:
     print("Entered")
 
-    
 3. pass - spacce holder
 
 range() - this is a in-built function that is useed to generate a sequence upto limit
