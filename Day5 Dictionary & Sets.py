@@ -1,5 +1,4 @@
 '''
-
                               DICTIONARY
                               ----------
 
@@ -11,7 +10,6 @@
     ex:
     details_ = {"Name" : "Meenakshi", "number" : 1 , (6, 7) : [1,2]}
     print(details_)
-
 
     bank_details = {
     "Name" : "Meenakshi",
@@ -44,11 +42,9 @@ METHODS
     print(bank_details)               #{}
 
 5. update()
-
     ex:
     bank_details.update({"Name" : "Meena"})
     print(bank_details)               #{'name': 'Meena', 'Mobile': 1234567890, 'Aadhaar No.': '123456789012'}
-
 
 
                              SETS
@@ -116,13 +112,8 @@ METHODS()
     set1_.discard(4)
     print(set1_)               #{1, 2, 3}
 
-    
 '''
-
-
-
 set1_ = {10, 1, 2, 3, 4}
 
 set1_.pop()
 print(set1_)
-
