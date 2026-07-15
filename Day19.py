@@ -182,15 +182,11 @@ def wish_user():
 
     else:
         speak("Good Evening \nI am your Virtual Assistant")
-
-
+        
 wish_user()
 
-
 while True:
-
     command = take_command()
-
     if "time" in command:
         time = datetime.datetime.now().strftime("%I:%M %p")
         print("Current Time:", time)
